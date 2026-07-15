@@ -1,0 +1,21 @@
+{
+  "trips": [],
+  "notes": [],
+  "checks": [
+    {
+      "id": 1,
+      "text": "Giấy tờ tùy thân",
+      "done": false
+    },
+    {
+      "id": 2,
+      "text": "Sạc điện thoại",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "Thuốc cá nhân",
+      "done": false
+    }
+  ]
+}
